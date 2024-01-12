@@ -2,8 +2,6 @@ Feature: Customer Listing
 
     Background: The purpose of these to tests is to verify the customer data is being displayed as expected on the frontend.
 
-
-
     Scenario: Verify Customer Contact Data
         Given a user is on the "/customerList" page
         When the customer list is displayed
