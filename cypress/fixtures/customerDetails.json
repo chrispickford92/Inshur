@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "jsmith@test.com",
+    "phone": "0208092029"
+  },
+  {
+    "id": 2,
+    "name": "Jeff Bridges",
+    "email": "abcd@test.com",
+    "phone": "0161 225 7632"
+  },
+  {
+    "id": 3,
+    "name": "Steve Jones",
+    "email": "steven.jones@test.com",
+    "phone": "01403 215100"
+  },
+  {
+    "id": 4,
+    "name": "Chris Pickford",
+    "email": "Chris.pickford@test.com",
+    "phone": "01232 786536"
+  }
+]
